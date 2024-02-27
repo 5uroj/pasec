@@ -11,6 +11,7 @@ PaSec is a secure password generator that allows you to create strong, unique pa
 ### Web Version => [pasec.ssuroj.com.np](https://pasec.ssuroj.com.np/)
 ### Download Only Html =>  [PaSec.html](https://github.com/5uroj/pasec/releases/download/Publish/PaSec.html)
 ### Windows Installer => [PaSec Windows Setup](https://github.com/5uroj/pasec/releases/download/Publish/PaSec-Setup-Windows.exe)
+### Python Library => [PaSec Python Library](https://github.com/5uroj/pasec-py)
 ### Others Releases => [Releases](https://github.com/5uroj/pasec/releases/tag/Publish)
 
 ## Liscense
